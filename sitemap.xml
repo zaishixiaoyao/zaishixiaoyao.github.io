@@ -3,17 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://zaishixiaoyao.github.io/post/first/</loc>
-    <lastmod>2020-03-09T22:22:50+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://zaishixiaoyao.github.io/</loc>
-    <lastmod>2020-03-09T22:22:50+08:00</lastmod>
+    <lastmod>2020-03-09T22:31:16+08:00</lastmod>
   </url>
   
   <url>
     <loc>http://zaishixiaoyao.github.io/post/</loc>
+    <lastmod>2020-03-09T22:31:16+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://zaishixiaoyao.github.io/post/secondtest/</loc>
+    <lastmod>2020-03-09T22:31:16+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://zaishixiaoyao.github.io/post/first/</loc>
     <lastmod>2020-03-09T22:22:50+08:00</lastmod>
   </url>
   

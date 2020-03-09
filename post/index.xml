@@ -6,10 +6,19 @@
     <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 09 Mar 2020 22:22:50 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2020 22:31:16 +0800</lastBuildDate>
     
 	<atom:link href="http://zaishixiaoyao.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Secondtest</title>
+      <link>http://zaishixiaoyao.github.io/post/secondtest/</link>
+      <pubDate>Mon, 09 Mar 2020 22:31:16 +0800</pubDate>
+      
+      <guid>http://zaishixiaoyao.github.io/post/secondtest/</guid>
+      <description>这是我的第二篇博客，内容不重要，创建这个博客的主要目的是为了测试hugo的功能</description>
+    </item>
     
     <item>
       <title>First</title>
