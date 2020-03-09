@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>http://zaishixiaoyao.github.io/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 09 Mar 2020 22:22:50 +0800</lastBuildDate>
+    
+	<atom:link href="http://zaishixiaoyao.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>First</title>
+      <link>http://zaishixiaoyao.github.io/post/first/</link>
+      <pubDate>Mon, 09 Mar 2020 22:22:50 +0800</pubDate>
+      
+      <guid>http://zaishixiaoyao.github.io/post/first/</guid>
+      <description>你好，hugo，这是我的第一篇博客</description>
+    </item>
+    
+  </channel>
+</rss>
